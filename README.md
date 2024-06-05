@@ -21,4 +21,15 @@ Content Storage: Store and retrieve blog posts and assets using AWS S3.
 API Management: Manage backend communication through AWS API Gateway.
 Scalable Architecture: Built on a serverless architecture to handle varying loads efficiently.
 
+**Sample Images of Website Created**
 
+
+![Screenshot 2024-06-05 071652](https://github.com/VinayakKhithani/Blog_Generation_Website/assets/142567573/3e5be3cc-876a-4b4e-ae79-4dd0099448c0)
+
+![Screenshot 2024-06-05 071720](https://github.com/VinayakKhithani/Blog_Generation_Website/assets/142567573/864006d2-c09d-496c-8cad-bb0ed50b0079)
+
+![Screenshot 2024-06-05 071751](https://github.com/VinayakKhithani/Blog_Generation_Website/assets/142567573/0d284dd6-4bde-45c0-804f-d97e8244a08b)
+
+![Screenshot 2024-06-05 072029](https://github.com/VinayakKhithani/Blog_Generation_Website/assets/142567573/2ff5d93c-15af-4fc3-915d-22e6c03d63d5)
+
+![Screenshot 2024-06-05 072140](https://github.com/VinayakKhithani/Blog_Generation_Website/assets/142567573/d621fdbb-0e53-41a9-a504-1f41062b72f3)
